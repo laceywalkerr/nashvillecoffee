@@ -1,0 +1,25 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+}
+
+.shop {
+    border: 1px solid brown;
+    width: 30%;
+    align-content: space-around;
+    margin: 0 10px;
+} 
+
+body {
+    background-color: tan;
